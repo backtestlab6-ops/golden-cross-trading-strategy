@@ -39,36 +39,11 @@
 
 ## 🚀 Quick Start
 
-### Google Colab (recommended, no install needed)
 
 ---
 1. Open Google Colab
 2. Import the notebook
 3. Run the cells 
-
-```
-
-
-## 📦 Dependencies
-
-```
-yfinance
-pandas
-numpy
-plotly
-jupyter
-```
-
-
-
-## 📁 Repository Structure
-
-```
-golden-cross-backtest/
-│
-├── golden_cross_backtest.ipynb   ← Main notebook (run this)
-├── requirements.txt              ← Python dependencies
-├── README.md                     ← This file
 
 ```
 
