@@ -22,7 +22,7 @@
 | 5 | MA optimisation — which window combination works best? |
 | 6 | Scientific verdict — key findings and conclusions |
 
-
+---
 
 ## 🔬 The 3 Conditions for the Golden Cross to Work
 
@@ -72,9 +72,10 @@ golden-cross-backtest/
 
 ```
 
----
+
 
 ## ⚠️ Disclaimer
+---
 
 This repository is for **educational purposes only**.  
 Nothing here constitutes financial advice.  
