@@ -2,8 +2,8 @@
 
 
 > **BacktestLAB — Video 8**  
-> A scientific backtest of the Golden Cross strategy across 50 assets, 20 years of daily data, with parameter optimization and exit strategy comparison.
-
+> This repository contains a Python backtesting framework for the Golden Cross trading strategy, tested on daily timeframes using historical market data from Yahoo Finance.
+> The goal of this project is educational: to demonstrate whether the Golden Cross signal actually generates alpha — or whether it is simply a popular but misunderstood pattern.
 ---
 
 ## 📺 Video
@@ -60,8 +60,15 @@ Past backtest results do not guarantee future performance.
 
 ## 🔔 BacktestLAB
 
-**Subscribe** for weekly scientific backtests — no hype, no guru content, just data and honest conclusions.
+**Subscribe** for scientific backtests — no hype, no guru content, just data and honest conclusions.
 
-[![YouTube](https://img.shields.io/badge/YouTube-BacktestLAB-red?logo=youtube)]([https://youtube.com/@BacktestLAB](https://www.youtube.com/@BacktestLAB1965))
+[![YouTube](https://img.shields.io/badge/YouTube-BacktestLAB-red?logo=youtube)]([https://youtube.com/@BacktestLAB1965](https://www.youtube.com/@BacktestLAB1965))
+
+On the channel, I:
+
+1. Explain the logic behind the strategy
+2. Walk through the code step by step
+3. Analyse results across multiple assets
+4. Discuss strengths, limitations, and realistic conditions for the strategy to work
 
 ---
