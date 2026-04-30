@@ -11,7 +11,7 @@
 
 ## 📺 Video
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtube.com/@BacktestLAB)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)]([https://youtube.com/@BacktestLAB](https://www.youtube.com/@BacktestLAB1965))
 
 ---
 
