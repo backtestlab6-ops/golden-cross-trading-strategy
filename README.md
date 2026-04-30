@@ -42,9 +42,9 @@
 ### Google Colab (recommended, no install needed)
 
 ---
-Open Google Colab
-Import the notebook
-Run the cells 
+1. Open Google Colab
+2. Import the notebook
+3. Run the cells 
 
 ```
 
