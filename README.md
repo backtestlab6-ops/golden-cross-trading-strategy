@@ -49,26 +49,24 @@
 
 
 
-## ⚠️ Disclaimer
----
+## 🎥 YouTube Channel
 
-This repository is for **educational purposes only**.  
-Nothing here constitutes financial advice.  
-Past backtest results do not guarantee future performance.
+I regularly publish **backtesting, trading strategy analysis, and quantitative research** on my YouTube channel:
 
----
-
-## 🔔 BacktestLAB
-
-**Subscribe** for scientific backtests — no hype, no guru content, just data and honest conclusions.
-
-[![YouTube](https://img.shields.io/badge/YouTube-BacktestLAB-red?logo=youtube)]([https://youtube.com/@BacktestLAB1965](https://www.youtube.com/@BacktestLAB1965))
+👉 **BackTestLAB**  
+🔗 https://www.youtube.com/@BacktestLAB1965
 
 On the channel, I:
-
-1. Explain the logic behind the strategy
-2. Walk through the code step by step
-3. Analyse results across multiple assets
-4. Discuss strengths, limitations, and realistic conditions for the strategy to work
+- Explain the logic behind the strategy
+- Walk through the code step by step
+- Analyze results 
+- Discuss strengths, limitations, and risks
 
 ---
+
+## ⚠️ Disclaimer
+
+This project is for **educational and research purposes only**.  
+It is **not financial advice**.
+
+Trading involves risk, and past performance does not guarantee future results.
