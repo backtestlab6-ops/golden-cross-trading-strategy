@@ -35,12 +35,13 @@
 > *"The entry tells you when the trend starts.  
 > The asset, the exit, and the parameters determine whether you profit from it."*
 
----
+
 
 ## 🚀 Quick Start
 
 ### Google Colab (recommended, no install needed)
 
+---
 Open Google Colab
 Import the notebook
 Run the cells 
